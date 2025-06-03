@@ -1,0 +1,5 @@
+C:/Users/cesiy/CLionProjects/WhereIWas/cmake-build-debug/CMakeFiles/WhereIWas.dir
+C:/Users/cesiy/CLionProjects/WhereIWas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cesiy/CLionProjects/WhereIWas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/cesiy/CLionProjects/WhereIWas/cmake-build-debug/CMakeFiles/WhereIWas_autogen_timestamp_deps.dir
+C:/Users/cesiy/CLionProjects/WhereIWas/cmake-build-debug/CMakeFiles/WhereIWas_autogen.dir

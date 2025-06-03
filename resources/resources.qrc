@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>map_data/branches.json</file>
+        <file>map_data/stations.json</file>
+        <file>map_data/dot_connectors.json</file>
+        <file>map_data/connectors.json</file>
+    </qresource>
+</RCC>
