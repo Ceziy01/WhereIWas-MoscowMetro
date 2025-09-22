@@ -299,57 +299,57 @@
 	"HEADERS" : 
 	[
 		[
-			"C:/Users/cesiy/CLionProjects/WhereIWas/BranchLabel.h",
+			"C:/Users/cesiy/CLionProjects/WhereIWas/src/BranchLabel.h",
 			"MU",
-			"EWIEGA46WW/moc_BranchLabel.cpp",
+			"UVLADIE3JM/moc_BranchLabel.cpp",
 			null
 		],
 		[
-			"C:/Users/cesiy/CLionProjects/WhereIWas/Connector.h",
+			"C:/Users/cesiy/CLionProjects/WhereIWas/src/Connector.h",
 			"MU",
-			"EWIEGA46WW/moc_Connector.cpp",
+			"UVLADIE3JM/moc_Connector.cpp",
 			null
 		],
 		[
-			"C:/Users/cesiy/CLionProjects/WhereIWas/DotConnector.h",
+			"C:/Users/cesiy/CLionProjects/WhereIWas/src/DotConnector.h",
 			"MU",
-			"EWIEGA46WW/moc_DotConnector.cpp",
+			"UVLADIE3JM/moc_DotConnector.cpp",
 			null
 		],
 		[
-			"C:/Users/cesiy/CLionProjects/WhereIWas/Json.h",
+			"C:/Users/cesiy/CLionProjects/WhereIWas/src/Json.h",
 			"MU",
-			"EWIEGA46WW/moc_Json.cpp",
+			"UVLADIE3JM/moc_Json.cpp",
 			null
 		],
 		[
-			"C:/Users/cesiy/CLionProjects/WhereIWas/MainWindow.h",
+			"C:/Users/cesiy/CLionProjects/WhereIWas/src/MainWindow.h",
 			"MU",
-			"EWIEGA46WW/moc_MainWindow.cpp",
+			"UVLADIE3JM/moc_MainWindow.cpp",
 			null
 		],
 		[
-			"C:/Users/cesiy/CLionProjects/WhereIWas/MapBranch.h",
+			"C:/Users/cesiy/CLionProjects/WhereIWas/src/MapBranch.h",
 			"MU",
-			"EWIEGA46WW/moc_MapBranch.cpp",
+			"UVLADIE3JM/moc_MapBranch.cpp",
 			null
 		],
 		[
-			"C:/Users/cesiy/CLionProjects/WhereIWas/MapScene.h",
+			"C:/Users/cesiy/CLionProjects/WhereIWas/src/MapScene.h",
 			"MU",
-			"EWIEGA46WW/moc_MapScene.cpp",
+			"UVLADIE3JM/moc_MapScene.cpp",
 			null
 		],
 		[
-			"C:/Users/cesiy/CLionProjects/WhereIWas/MapStation.h",
+			"C:/Users/cesiy/CLionProjects/WhereIWas/src/MapStation.h",
 			"MU",
-			"EWIEGA46WW/moc_MapStation.cpp",
+			"UVLADIE3JM/moc_MapStation.cpp",
 			null
 		],
 		[
-			"C:/Users/cesiy/CLionProjects/WhereIWas/MapView.h",
+			"C:/Users/cesiy/CLionProjects/WhereIWas/src/MapView.h",
 			"MU",
-			"EWIEGA46WW/moc_MapView.cpp",
+			"UVLADIE3JM/moc_MapView.cpp",
 			null
 		]
 	],
@@ -424,8 +424,12 @@
 	"SETTINGS_FILE" : "C:/Users/cesiy/CLionProjects/WhereIWas/cmake-build-debug/CMakeFiles/WhereIWas_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "C:/Users/cesiy/CLionProjects/WhereIWas/MainWindow.cpp", "MU", null ],
-		[ "C:/Users/cesiy/CLionProjects/WhereIWas/main.cpp", "MU", null ]
+		[
+			"C:/Users/cesiy/CLionProjects/WhereIWas/src/MainWindow.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Users/cesiy/CLionProjects/WhereIWas/src/main.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

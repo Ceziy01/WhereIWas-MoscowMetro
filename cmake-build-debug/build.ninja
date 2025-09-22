@@ -57,21 +57,21 @@ build CMakeFiles/WhereIWas.dir/WhereIWas_autogen/mocs_compilation.cpp.obj: CXX_C
   OBJECT_DIR = CMakeFiles\WhereIWas.dir
   OBJECT_FILE_DIR = CMakeFiles\WhereIWas.dir\WhereIWas_autogen
 
-build CMakeFiles/WhereIWas.dir/main.cpp.obj: CXX_COMPILER__WhereIWas_unscanned_Debug C$:/Users/cesiy/CLionProjects/WhereIWas/main.cpp || cmake_object_order_depends_target_WhereIWas
+build CMakeFiles/WhereIWas.dir/src/main.cpp.obj: CXX_COMPILER__WhereIWas_unscanned_Debug C$:/Users/cesiy/CLionProjects/WhereIWas/src/main.cpp || cmake_object_order_depends_target_WhereIWas
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  DEP_FILE = CMakeFiles\WhereIWas.dir\main.cpp.obj.d
+  DEP_FILE = CMakeFiles\WhereIWas.dir\src\main.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
   INCLUDES = -isystem C:/Users/cesiy/CLionProjects/WhereIWas/cmake-build-debug/WhereIWas_autogen/include -isystem C:/Qt/6.9.0/mingw_64/include/QtCore -isystem C:/Qt/6.9.0/mingw_64/include -isystem C:/Qt/6.9.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.0/mingw_64/include/QtGui -isystem C:/Qt/6.9.0/mingw_64/include/QtWidgets
   OBJECT_DIR = CMakeFiles\WhereIWas.dir
-  OBJECT_FILE_DIR = CMakeFiles\WhereIWas.dir
+  OBJECT_FILE_DIR = CMakeFiles\WhereIWas.dir\src
 
-build CMakeFiles/WhereIWas.dir/MainWindow.cpp.obj: CXX_COMPILER__WhereIWas_unscanned_Debug C$:/Users/cesiy/CLionProjects/WhereIWas/MainWindow.cpp || cmake_object_order_depends_target_WhereIWas
+build CMakeFiles/WhereIWas.dir/src/MainWindow.cpp.obj: CXX_COMPILER__WhereIWas_unscanned_Debug C$:/Users/cesiy/CLionProjects/WhereIWas/src/MainWindow.cpp || cmake_object_order_depends_target_WhereIWas
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  DEP_FILE = CMakeFiles\WhereIWas.dir\MainWindow.cpp.obj.d
+  DEP_FILE = CMakeFiles\WhereIWas.dir\src\MainWindow.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
   INCLUDES = -isystem C:/Users/cesiy/CLionProjects/WhereIWas/cmake-build-debug/WhereIWas_autogen/include -isystem C:/Qt/6.9.0/mingw_64/include/QtCore -isystem C:/Qt/6.9.0/mingw_64/include -isystem C:/Qt/6.9.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.0/mingw_64/include/QtGui -isystem C:/Qt/6.9.0/mingw_64/include/QtWidgets
   OBJECT_DIR = CMakeFiles\WhereIWas.dir
-  OBJECT_FILE_DIR = CMakeFiles\WhereIWas.dir
+  OBJECT_FILE_DIR = CMakeFiles\WhereIWas.dir\src
 
 build CMakeFiles/WhereIWas.dir/WhereIWas_autogen/3YJK5W5UP7/qrc_resources.cpp.obj: CXX_COMPILER__WhereIWas_unscanned_Debug C$:/Users/cesiy/CLionProjects/WhereIWas/cmake-build-debug/WhereIWas_autogen/3YJK5W5UP7/qrc_resources.cpp || cmake_object_order_depends_target_WhereIWas
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
@@ -89,7 +89,7 @@ build CMakeFiles/WhereIWas.dir/WhereIWas_autogen/3YJK5W5UP7/qrc_resources.cpp.ob
 #############################################
 # Link the executable WhereIWas.exe
 
-build WhereIWas.exe: CXX_EXECUTABLE_LINKER__WhereIWas_Debug CMakeFiles/WhereIWas.dir/WhereIWas_autogen/mocs_compilation.cpp.obj CMakeFiles/WhereIWas.dir/main.cpp.obj CMakeFiles/WhereIWas.dir/MainWindow.cpp.obj CMakeFiles/WhereIWas.dir/WhereIWas_autogen/3YJK5W5UP7/qrc_resources.cpp.obj | C$:/Qt/6.9.0/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.9.0/mingw_64/lib/libQt6Gui.a C$:/Qt/6.9.0/mingw_64/lib/libQt6Core.a || WhereIWas_autogen WhereIWas_autogen_timestamp_deps
+build WhereIWas.exe: CXX_EXECUTABLE_LINKER__WhereIWas_Debug CMakeFiles/WhereIWas.dir/WhereIWas_autogen/mocs_compilation.cpp.obj CMakeFiles/WhereIWas.dir/src/main.cpp.obj CMakeFiles/WhereIWas.dir/src/MainWindow.cpp.obj CMakeFiles/WhereIWas.dir/WhereIWas_autogen/3YJK5W5UP7/qrc_resources.cpp.obj | C$:/Qt/6.9.0/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.9.0/mingw_64/lib/libQt6Gui.a C$:/Qt/6.9.0/mingw_64/lib/libQt6Core.a || WhereIWas_autogen WhereIWas_autogen_timestamp_deps
   FLAGS = -g
   LINK_LIBRARIES = C:/Qt/6.9.0/mingw_64/lib/libQt6Widgets.a  C:/Qt/6.9.0/mingw_64/lib/libQt6Gui.a  C:/Qt/6.9.0/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -ld3d11  -ldxgi  -ldxguid  -ld3d12  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\WhereIWas.dir

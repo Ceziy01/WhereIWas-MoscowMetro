@@ -14,18 +14,18 @@ find_package(Qt6
         REQUIRED)
 
 add_executable(WhereIWas
-        main.cpp
+        src/main.cpp
         resources/resources.qrc
-        MainWindow.cpp
-        MainWindow.h
-        MapView.h
-        MapScene.h
-        MapBranch.h
-        MapStation.h
-        Json.h
-        DotConnector.h
-        Connector.h
-        BranchLabel.h)
+        src/MainWindow.cpp
+        src/MainWindow.h
+        src/MapView.h
+        src/MapScene.h
+        src/MapBranch.h
+        src/MapStation.h
+        src/Json.h
+        src/DotConnector.h
+        src/Connector.h
+        src/BranchLabel.h)
 
 target_link_libraries(WhereIWas
         Qt::Core

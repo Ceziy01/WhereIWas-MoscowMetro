@@ -208,21 +208,21 @@ WhereIWas_autogen/timestamp: \
 	C:/Qt/6.9.0/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersionImpl.cmake \
 	C:/Qt/6.9.0/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake \
 	C:/Qt/6.9.0/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessAliasTargets.cmake \
-	C:/Users/cesiy/CLionProjects/WhereIWas/BranchLabel.h \
 	C:/Users/cesiy/CLionProjects/WhereIWas/CMakeLists.txt \
-	C:/Users/cesiy/CLionProjects/WhereIWas/Connector.h \
-	C:/Users/cesiy/CLionProjects/WhereIWas/DotConnector.h \
-	C:/Users/cesiy/CLionProjects/WhereIWas/Json.h \
-	C:/Users/cesiy/CLionProjects/WhereIWas/MainWindow.cpp \
-	C:/Users/cesiy/CLionProjects/WhereIWas/MainWindow.h \
-	C:/Users/cesiy/CLionProjects/WhereIWas/MapBranch.h \
-	C:/Users/cesiy/CLionProjects/WhereIWas/MapScene.h \
-	C:/Users/cesiy/CLionProjects/WhereIWas/MapStation.h \
-	C:/Users/cesiy/CLionProjects/WhereIWas/MapView.h \
 	C:/Users/cesiy/CLionProjects/WhereIWas/cmake-build-debug/CMakeFiles/3.29.6/CMakeCCompiler.cmake \
 	C:/Users/cesiy/CLionProjects/WhereIWas/cmake-build-debug/CMakeFiles/3.29.6/CMakeCXXCompiler.cmake \
 	C:/Users/cesiy/CLionProjects/WhereIWas/cmake-build-debug/CMakeFiles/3.29.6/CMakeRCCompiler.cmake \
 	C:/Users/cesiy/CLionProjects/WhereIWas/cmake-build-debug/CMakeFiles/3.29.6/CMakeSystem.cmake \
-	C:/Users/cesiy/CLionProjects/WhereIWas/main.cpp \
 	C:/Users/cesiy/CLionProjects/WhereIWas/resources/resources.qrc \
+	C:/Users/cesiy/CLionProjects/WhereIWas/src/BranchLabel.h \
+	C:/Users/cesiy/CLionProjects/WhereIWas/src/Connector.h \
+	C:/Users/cesiy/CLionProjects/WhereIWas/src/DotConnector.h \
+	C:/Users/cesiy/CLionProjects/WhereIWas/src/Json.h \
+	C:/Users/cesiy/CLionProjects/WhereIWas/src/MainWindow.cpp \
+	C:/Users/cesiy/CLionProjects/WhereIWas/src/MainWindow.h \
+	C:/Users/cesiy/CLionProjects/WhereIWas/src/MapBranch.h \
+	C:/Users/cesiy/CLionProjects/WhereIWas/src/MapScene.h \
+	C:/Users/cesiy/CLionProjects/WhereIWas/src/MapStation.h \
+	C:/Users/cesiy/CLionProjects/WhereIWas/src/MapView.h \
+	C:/Users/cesiy/CLionProjects/WhereIWas/src/main.cpp \
 	C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/cmake/win/x64/bin/cmake.exe
