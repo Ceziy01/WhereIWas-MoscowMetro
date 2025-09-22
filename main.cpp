@@ -4,7 +4,7 @@
 #include "MainWindow.h"
 
 int main(int argc, char *argv[]) {
-    //qWarning() << QPointF(12, 4) / 2;
+    setlocale(LC_ALL, "Russian");
     QApplication app(argc, argv);
     MainWindow *window = new MainWindow();
     window->show();

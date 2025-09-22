@@ -10,9 +10,11 @@
 	"INPUTS" : 
 	[
 		"C:/Users/cesiy/CLionProjects/WhereIWas/resources/map_data/dot_connectors.json",
+		"C:/Users/cesiy/CLionProjects/WhereIWas/resources/map_data/colors.json",
 		"C:/Users/cesiy/CLionProjects/WhereIWas/resources/map_data/stations.json",
 		"C:/Users/cesiy/CLionProjects/WhereIWas/resources/map_data/connectors.json",
-		"C:/Users/cesiy/CLionProjects/WhereIWas/resources/map_data/branches.json"
+		"C:/Users/cesiy/CLionProjects/WhereIWas/resources/map_data/branches.json",
+		"C:/Users/cesiy/CLionProjects/WhereIWas/resources/map_data/branch_labels.json"
 	],
 	"LOCK_FILE" : "C:/Users/cesiy/CLionProjects/WhereIWas/cmake-build-debug/CMakeFiles/WhereIWas_autogen.dir/AutoRcc_resources_3YJK5W5UP7_Lock.lock",
 	"MULTI_CONFIG" : false,

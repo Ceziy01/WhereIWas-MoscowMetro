@@ -299,6 +299,12 @@
 	"HEADERS" : 
 	[
 		[
+			"C:/Users/cesiy/CLionProjects/WhereIWas/BranchLabel.h",
+			"MU",
+			"EWIEGA46WW/moc_BranchLabel.cpp",
+			null
+		],
+		[
 			"C:/Users/cesiy/CLionProjects/WhereIWas/Connector.h",
 			"MU",
 			"EWIEGA46WW/moc_Connector.cpp",

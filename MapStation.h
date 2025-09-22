@@ -91,6 +91,9 @@ protected:
 
             painter->setPen(palette.color(QPalette::Text));
             painter->drawText(label_pos, dname);
+
+            painter->setPen(Qt::NoPen);
+            painter->setBrush(colors[0]);
         }
     }
 };

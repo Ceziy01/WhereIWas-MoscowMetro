@@ -24,7 +24,9 @@ add_executable(WhereIWas
         MapStation.h
         Json.h
         DotConnector.h
-        Connector.h)
+        Connector.h
+        BranchLabel.h)
+
 target_link_libraries(WhereIWas
         Qt::Core
         Qt::Gui
